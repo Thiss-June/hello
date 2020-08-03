@@ -12,6 +12,7 @@ public class HelloJava {
 	public static void main(String[] args) {
 		//주석입니다. 컴파일링 안됨, 코드 설명을 위함.
 		System.out.println("Hello, Java");
+		System.out.println("수정했음!");
 		/*
 		 이 사이 공간은 
 		 주석 처리가 됨. 
